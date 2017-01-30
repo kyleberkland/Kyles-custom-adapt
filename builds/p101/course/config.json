@@ -1,0 +1,40 @@
+{
+	"_defaultLanguage": "en",
+	"_defaultDirection": "ltr",
+	"_questionWeight": 1,
+	"_accessibility": {
+		"_isEnabled": false,
+		"_isDisabledOnTouchDevices": false,
+		"_shouldSupportLegacyBrowsers": true,
+		"_isTextProcessorEnabled": true,
+		"_disableTextSelectOnClasses": ""
+	},
+	"_drawer": {
+		"_showEasing": "easeOutQuart",
+		"_hideEasing": "easeInQuart",
+		"_duration": 400
+	},
+	"_spoor": {
+		"_isEnabled": true,
+		"_tracking": {
+			"_requireCourseCompleted": true,
+			"_requireAssessmentPassed": false,
+			"_shouldSubmitScore": false,
+			"_shouldStoreResponses": false,
+			"_shouldRecordInteractions": true
+		},
+		"_reporting": {
+			"_comment": "_onTrackingCriteriaMet/_onAssessmentFailure = completed | incomplete | passed | failed",
+			"_onTrackingCriteriaMet": "completed",
+			"_onAssessmentFailure": "incomplete",
+			"_resetStatusOnLanguageChange": false
+		}
+	},
+	"_disableAnimationFor": [],
+	"build": {},
+	"_inspector": {
+		"_isEnabled": false,
+		"_disableOnTouch": false,
+		"_tracUrl": ""
+	}
+}

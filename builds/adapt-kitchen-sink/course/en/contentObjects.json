@@ -1,0 +1,930 @@
+[
+    {
+        "_id":"co-01",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Kyle's adapt example",
+        "displayTitle":"Kyle's adapt example",
+        "body":"This is my personal development with adapt.",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"Duration: Forever",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-05",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Core Presentation Components",
+        "displayTitle":"Core Presentation Components",
+        "body":"Interactivity is crucial to getting learners engaged with your content. No matter how interesting the information you’re trying to present is, a learner who’s not engaged is a learner who’s not learning. Add some spark to their learning experience by offering them an interactive journey through the content.<br/><br/>All core components will work with IE8, offer RTL language support and accessibility to at least AA.",
+        "instruction":"Scroll down to see what presentation components we have on offer.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-10",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Core Question Components",
+        "displayTitle":"Core Question Components",
+        "body":"Interactivity is crucial to getting learners engaged with your content. No matter how interesting the information you’re trying to present is, a learner who’s not engaged is a learner who’s not learning. Add some spark to their learning experience by offering them an interactive journey through the content.<br/><br/>All core components will work with IE8, offer RTL language support and accessibility to at least AA.",
+        "instruction":"Scroll down to see what question components we have on offer.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-15",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Kineo Presentation Components",
+        "displayTitle":"Kineo Presentation Components",
+        "body":"Kineo have added the following question components to the core bundle. Remember that anything outside of the core bundle might not be IE8 compatible or accessible so check the details.",
+        "instruction":"Scroll down to see what we have on offer.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-20",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Kineo Question Components",
+        "displayTitle":"Kineo Question Components",
+        "body":"Kineo have added the following question components to the core bundle. Remember that anything outside of the core bundle might not be IE8 compatible or accessible so check the details.",
+        "instruction":"Scroll down to see what we have on offer.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-25",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Article Reveal",
+        "displayTitle":"Article Reveal",
+        "body":"This page contains an Article Reveal.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-30",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Menus",
+        "displayTitle":"Menus",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-35",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Quick Nav",
+        "displayTitle":"Quick Nav",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-40",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Strickle",
+        "displayTitle":"Strickle",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-45",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Background Switcher",
+        "displayTitle":"Background Switcher",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_backgroundSwitcher": {
+            "_isActive":true
+        },
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-50",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Search",
+        "displayTitle":"Search",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-55",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Trigger Components",
+        "displayTitle":"Trigger Components",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-60",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Audio",
+        "displayTitle":"Audio Components",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-65",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Lightbox",
+        "displayTitle":"Lightbox Extension",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+    {
+        "_id":"co-70",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Video",
+        "displayTitle":"Video background Extension",
+        "body":"Under construction.",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins",
+        "_theme": {
+            "_pageHeader": {
+                "_isEnabled": true,
+                "_layout": "left",
+                "_showScrollButton": true,
+                "_backgroundImage": {
+                    "_large": "course/en/images/base_assets/hero_image.jpg",
+                    "_medium": "course/en/images/base_assets/hero_image.jpg",
+                    "_small": "course/en/images/base_assets/hero_image_mobile.jpg"
+                },
+                "_minimumHeaderHeights": {
+                    "_large": 500,
+                    "_medium": 500,
+                    "_small": 300
+                }
+            }
+        },
+        "_quicknav": {
+            "_isEnabled": true,
+            "_isContinuous": "global",
+            "_buttons": {
+                "_root": {
+                    "_isHidden": false,
+                    "text": "Menu"
+                },
+                "_up": {
+                    "_isHidden": true,
+                    "text": "Back to menu"
+                },
+                "_previous": {
+                    "_isHidden": false,
+                    "text": "Previous"
+                },
+                "_next": {
+                    "_isHidden": false,
+                    "text": "Next"
+                }
+            },
+            "_isEnableNextOnCompletion": false
+        }
+    },
+     {
+        "_id":"co-75",
+        "_parentId":"course",
+        "_type": "page",
+        "_classes": "",
+        "title": "Background video.",
+        "displayTitle": "Background video.",
+        "body": "Blocks...",
+        "pageBody": "",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText": "View",
+        "duration": "5 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"co-80", 
+        "_parentId":"course",
+        "_type": "page",
+        "_classes": "",
+        "title": "Peel back hotspot.",
+        "displayTitle": "Peel back hotspot.",
+        "body": "Blocks...",
+        "pageBody": "",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText": "View",
+        "duration": "5 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"co-85", 
+        "_parentId":"course",
+        "_type": "page",
+        "_classes": "",
+        "title": "articleBlockSlider",
+        "displayTitle": "articleBlockSlider",
+        "body": "Blocks...",
+        "pageBody": "",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText": "View",
+        "duration": "5 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"co-90", 
+        "_parentId":"course",
+        "_type": "page",
+        "_classes": "",
+        "title": "Confidenceslider",
+        "displayTitle": "Confidenceslider",
+        "body": "Confidenceslider",
+        "pageBody": "",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText": "View",
+        "duration": "5 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"co-95", 
+        "_parentId":"course",
+        "_type": "page",
+        "_classes": "",
+        "title": "questionStrip/narritive strip",
+        "displayTitle": "questionStrip/narritive strip",
+        "body": "questionStrip/narritive strip",
+        "pageBody": "",
+        "_graphic": {
+            "alt": "Welcome to Adapt Learning",
+            "src": "course/en/images/origami-menu-one.jpg"
+        },
+        "linkText": "View",
+        "duration": "5 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }
+]
